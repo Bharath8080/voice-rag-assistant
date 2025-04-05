@@ -68,6 +68,9 @@ Then open in browser: `http://localhost:8501`
 ```txt
 streamlit
 llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-faiss
 google-generativeai
 faiss-cpu
 python-dotenv
